@@ -1,5 +1,5 @@
 # Credit-Card-Checker
-This is a project I did from Codecademy that required us to develop a program that check the validity of credit cards.
+This is a project I did from Codecademy that required us to develop a program that checks the validity of credit cards.
 
 
 <strong>Overview</strong>
