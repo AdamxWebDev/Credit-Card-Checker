@@ -1,5 +1,5 @@
 # Credit-Card-Checker
-Challenge Project: Credit Card Checker
+<strong>Challenge Project: Credit Card Checker</strong>
 
 
 <strong>Overview</strong>
